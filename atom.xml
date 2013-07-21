@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Thirsty Indian]]></title>
+  <link href="http://thirstyindian.github.io//github/atom.xml" rel="self"/>
+  <link href="http://thirstyindian.github.io//github/"/>
+  <updated>2013-07-21T15:42:19+05:30</updated>
+  <id>http://thirstyindian.github.io//github/</id>
+  <author>
+    <name><![CDATA[Sukesh Salian]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[ggg]]></title>
+    <link href="http://thirstyindian.github.io//github/blog/2013/07/21/ggg/"/>
+    <updated>2013-07-21T12:36:00+05:30</updated>
+    <id>http://thirstyindian.github.io//github/blog/2013/07/21/ggg</id>
+    <content type="html"><![CDATA[<p>sdvsdvsv
+sdfdsfd
+fdsf
+ds
+fds
+f
+sdf</p>
+
+<p>dsf
+dsf
+ds
+f
+dsf
+ds</p>
+
+<p>fsd
+f
+sd
+fsd</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Second post]]></title>
+    <link href="http://thirstyindian.github.io//github/blog/2013/07/20/second-post/"/>
+    <updated>2013-07-20T19:09:00+05:30</updated>
+    <id>http://thirstyindian.github.io//github/blog/2013/07/20/second-post</id>
+    <content type="html"><![CDATA[<p>second post \n
+y this \n</p>
+
+<p>dsvsd
+fsdf
+sfsd</p>
+
+<p>fs
+df
+f</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[My First Post]]></title>
+    <link href="http://thirstyindian.github.io//github/blog/2013/07/20/my-first-post/"/>
+    <updated>2013-07-20T19:07:00+05:30</updated>
+    <id>http://thirstyindian.github.io//github/blog/2013/07/20/my-first-post</id>
+    <content type="html"><![CDATA[<p>First post to test First post to testFirst post to test First post to test
+second line here
+third line here</p>
+]]></content>
+  </entry>
+  
+</feed>
