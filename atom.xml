@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Thirsty Indian]]></title>
-  <link href="http://thirstyindian.github.io//github/atom.xml" rel="self"/>
-  <link href="http://thirstyindian.github.io//github/"/>
-  <updated>2013-07-21T15:42:19+05:30</updated>
-  <id>http://thirstyindian.github.io//github/</id>
+  <link href="http://sukesh1989.github.io/sukesh1989/atom.xml" rel="self"/>
+  <link href="http://sukesh1989.github.io/sukesh1989/"/>
+  <updated>2013-07-21T16:04:51+05:30</updated>
+  <id>http://sukesh1989.github.io/sukesh1989/</id>
   <author>
     <name><![CDATA[Sukesh Salian]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[ggg]]></title>
-    <link href="http://thirstyindian.github.io//github/blog/2013/07/21/ggg/"/>
+    <link href="http://sukesh1989.github.io/sukesh1989/blog/2013/07/21/ggg/"/>
     <updated>2013-07-21T12:36:00+05:30</updated>
-    <id>http://thirstyindian.github.io//github/blog/2013/07/21/ggg</id>
+    <id>http://sukesh1989.github.io/sukesh1989/blog/2013/07/21/ggg</id>
     <content type="html"><![CDATA[<p>sdvsdvsv
 sdfdsfd
 fdsf
@@ -42,9 +42,9 @@ fsd</p>
   
   <entry>
     <title type="html"><![CDATA[Second post]]></title>
-    <link href="http://thirstyindian.github.io//github/blog/2013/07/20/second-post/"/>
+    <link href="http://sukesh1989.github.io/sukesh1989/blog/2013/07/20/second-post/"/>
     <updated>2013-07-20T19:09:00+05:30</updated>
-    <id>http://thirstyindian.github.io//github/blog/2013/07/20/second-post</id>
+    <id>http://sukesh1989.github.io/sukesh1989/blog/2013/07/20/second-post</id>
     <content type="html"><![CDATA[<p>second post \n
 y this \n</p>
 
@@ -60,9 +60,9 @@ f</p>
   
   <entry>
     <title type="html"><![CDATA[My First Post]]></title>
-    <link href="http://thirstyindian.github.io//github/blog/2013/07/20/my-first-post/"/>
+    <link href="http://sukesh1989.github.io/sukesh1989/blog/2013/07/20/my-first-post/"/>
     <updated>2013-07-20T19:07:00+05:30</updated>
-    <id>http://thirstyindian.github.io//github/blog/2013/07/20/my-first-post</id>
+    <id>http://sukesh1989.github.io/sukesh1989/blog/2013/07/20/my-first-post</id>
     <content type="html"><![CDATA[<p>First post to test First post to testFirst post to test First post to test
 second line here
 third line here</p>
